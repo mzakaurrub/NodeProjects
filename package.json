@@ -1,0 +1,14 @@
+{
+  "name": "nodeprojects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "10-fs.js",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
